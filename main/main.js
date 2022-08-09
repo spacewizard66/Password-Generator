@@ -114,7 +114,7 @@ function copyPassword() {
 
 // Function for github link //
 function openGithubRepo() {
-	window.open("https://github.com/spacewizard66")
+	window.open("https://github.com/spacewizard66/Password-Generator")
 }
 
 
